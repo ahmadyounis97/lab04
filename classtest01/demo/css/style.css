@@ -9,17 +9,18 @@ body {
 img{
     width: 10cm;
 }
-main {
-    color:blue;
-        background-color: lightsalmon;
-    font-size: large;
-
-}
 #aboutme {
     color: brown;
 
 }
 .me02 {
-    background-color: lightseagreen;
+    background-color:lightseagreen;
     color: maroon;
+}
+div {
+    background-color: azure;
+    color:red;
+}
+.me03 {
+    font-size: larger;
 }
