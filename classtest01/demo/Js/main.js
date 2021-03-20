@@ -5,7 +5,7 @@ console.log(userName);
 alert('Now lets go on a trip to test you some information about me');
 let finalScore=0;
 let mylocalteam=prompt('do you think my local team is wehdat? ');
-while (mylocalteam.toLowerCase() !== 'yes' && mylocalteam.toLowerCase() !== 'nn')
+while (mylocalteam.toLowerCase() !== 'yes' && mylocalteam.toLowerCase() !== 'no')
 {
   alert('This wrong value: ' + mylocalteam + ', Please enter  yes or  no to the following questions.');
   mylocalteam = prompt('do you think my local team is wehdat?');
